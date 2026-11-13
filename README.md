@@ -8,10 +8,10 @@ English | [繁體中文](README-zh_TW.md)
 
 ## What you'll see
 
-Cistercian numerals write any number from 1 to 9999 as a single figure. Ciscrux uses four of them: the year, the date, the time and the seconds. In the screenshot above they read `2026`, `0604` (June 4), `1638` (16:38) and `02` seconds.
+Cistercian numerals write any number from 1 to 9999 as a single figure. Ciscrux uses four of them: the year, the date, the time and the seconds. In the screenshot above they read `2026`, `1113` (November 13), `1443` (14:43) and `27` seconds.
 
 - **Always the time**: the hour and minute are always shown. The year, the date and the seconds can each be turned off.
-- **Moon phase and weekday**: the seconds figure also carries the moon phase and the day of the week in its lower half. With **Show Hint** on, a small moon on its left and tally marks on its right show the same thing at a glance, one mark for Monday up to seven for Sunday.
+- **Moon phase and weekday**: the seconds figure also carries the moon phase and the day of the week in its lower half. With **Show Hint** on, a small moon on its left shows the moon phase, and the symbol on its right is the planet of the day. Each day of the week has long been paired with a planet: the Moon ☽ for Monday, Mars ♂ for Tuesday, Mercury ☿ for Wednesday, Jupiter ♃ for Thursday, Venus ♀ for Friday, Saturn ♄ for Saturday and the Sun ☉ for Sunday.
 - **Drawn stroke by stroke**: when a number changes, the new figure is drawn one stroke at a time. You can switch to a cross-fade or an instant change.
 - **One row or two**: line the figures up in a row, or stack them in two rows.
 - **Make it yours**: pick the colors and the line thickness, and show the regular digits under each figure while you learn to read them.
@@ -50,7 +50,7 @@ Update with `brew upgrade --cask ciscrux`. Uninstall with `brew uninstall --cask
 | Option | What it does |
 |---|---|
 | **Line thickness** | Line width as a share of the figure's height, 1–15%. Default 5%. |
-| **Show Hint** | Show the regular digits under each figure, and the moon and tally marks beside the seconds. Off by default. |
+| **Show Hint** | Show the regular digits under each figure, and the moon and the planet of the day beside the seconds. Off by default. |
 | **Show Year (YYYY)** | Show the year. |
 | **Show Month / Day (MMDD)** | Show the date. |
 | **Show Seconds \| Moon phase \| Weekday** | Show the seconds, with the moon phase and the weekday. |
