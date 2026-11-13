@@ -67,7 +67,7 @@ Update with `brew upgrade --cask ciscrux`. Uninstall with `brew uninstall --cask
 
 ## Feedback
 
-Report problems and ideas in [Issues](../../issues). The source code is not public.
+Report problems and ideas in [Issues](../../issues), and include the version number shown at the bottom of the Options window. The source code is not public.
 
 ## Contributors
 

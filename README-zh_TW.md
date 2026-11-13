@@ -69,7 +69,7 @@ brew install --cask vulcanshen/tap/ciscrux
 
 ## 意見回饋
 
-問題與建議請到 [Issues](../../issues) 回報。原始碼不公開。
+問題與建議請到 [Issues](../../issues) 回報，並附上版本號，版本號寫在選項視窗的左下角。原始碼不公開。
 
 ## 貢獻者
 
