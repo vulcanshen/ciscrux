@@ -47,6 +47,8 @@ Update with `brew upgrade --cask ciscrux`. Uninstall with `brew uninstall --cask
 
 ## Options
 
+<img src="images/options.png" width="400" alt="The Ciscrux Options window">
+
 | Option | What it does |
 |---|---|
 | **Line thickness** | Line width as a share of the figure's height, 1–15%. Default 5%. |

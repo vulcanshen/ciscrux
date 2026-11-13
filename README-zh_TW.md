@@ -49,6 +49,8 @@ brew install --cask vulcanshen/tap/ciscrux
 
 選項視窗目前只有英文，下表照畫面上的名稱列出。
 
+<img src="images/options.png" width="400" alt="Ciscrux 的選項視窗">
+
 | 選項 | 作用 |
 |---|---|
 | **Line thickness** | 線條粗細，以符號高度的百分比計算，1–15%，預設 5%。 |
